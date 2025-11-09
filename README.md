@@ -2,6 +2,9 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
+## NAME : EZHILARASI N
+## REG NO : 212224040088
+## DATE : 14.08.2025
 
 # AIM:
 To practice Linux Commands and Shell Scripting
